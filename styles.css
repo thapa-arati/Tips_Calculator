@@ -1,0 +1,19 @@
+      body {
+        background-color: #343a40;
+        color: #fff;
+      }
+      .heading {
+        color: #ffc107;
+      }
+      .card {
+        background-color: #212529;
+        border-color: #ffc107;
+      }
+      .input-group-addon {
+        background-color: #ffc107;
+        border-color: #ffc107;
+        color: #212529;
+      }
+      input[type=range]::-webkit-slider-thumb {
+        background-color: #ffc107;
+      }
